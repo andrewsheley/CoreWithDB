@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  corewithdb:
+    image: corewithdb
+    build:
+      context: .
+      dockerfile: CoreWithDB\Dockerfile
