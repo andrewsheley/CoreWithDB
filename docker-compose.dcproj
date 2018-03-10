@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.0</ProjectVersion>
     <DockerTargetOS>Windows</DockerTargetOS>
-    <ProjectGuid>ca1efe82-f3f1-44df-ace4-8acef456b812</ProjectGuid>
+    <ProjectGuid>4a657ab3-e3d4-4cfb-93bd-3e19b35bdeb6</ProjectGuid>
     <DockerLaunchBrowser>True</DockerLaunchBrowser>
     <DockerServiceUrl>http://{ServiceIPAddress}</DockerServiceUrl>
     <DockerServiceName>corewithdb</DockerServiceName>
